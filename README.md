@@ -77,4 +77,4 @@
 
 ## Additional Information
 
-For more details or questions, see `information.txt` or contact the author via Discord: `. _.kitler._.`
+For more details or questions, contact the author via Discord: `. _.kitler._.`
